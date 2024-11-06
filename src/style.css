@@ -1,0 +1,104 @@
+body{
+    background-color: rgb(206, 191, 178);
+}
+header{
+    background: rgb(84, 112, 145);
+    background: linear-gradient(90deg,rgb(111, 141, 180) 0%,
+   rgb(25, 89, 102) 98%);
+}
+.foto img{
+    width: 120px;
+border-radius: 12px;
+margin: 20px;
+}
+.contato{
+    font-size: 18px;
+}
+.contato h1 {
+      font-family: "Oswald", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 500;
+      font-style: normal;
+      margin-top: 40px;
+      font-size: 60px;
+}
+.contato img {
+    width: 20px;
+    margin: 8px;
+}
+
+.sobremim {
+    text-align: center;
+    padding: 30px;
+    color: white;
+    font-size: 22px;
+    margin-top: 80px;
+    
+}
+.projetos{
+    text-align: center;
+    margin-top: 40px;
+    font-family: "Oswald", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 500;
+      font-style: normal;
+      margin-top: 60px;
+      font-size: 60px;
+    
+}
+.projetos img:hover {
+    transform: scale(0.8);
+}
+.projetos img{
+    display: inline;
+    width: 180px;
+    margin: 20px;
+    border-radius: 8px;
+}
+.escola{
+    margin-top: 80px;
+    padding: 30px;
+}
+.escola h1{
+    font-weight: bold;
+    font-size: 25px;
+    font-family: "Oswald", sans-serif;
+      font-optical-sizing: auto;
+      font-style: normal
+}
+.escola p{
+    font-size: 18px;
+    font-family: "Oswald", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 500;
+      font-style: normal
+}
+.escola img{
+width: 40px;
+}
+.alura{
+    font-weight: bold;
+    font-size: 20px;
+}
+.contatosfinal{
+padding: 30px;
+}
+.contatosfinal h1{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 500;
+      font-style: normal;
+}
+.contatosfinal img{
+    width: 30px;
+}
+footer{
+    background: rgb(84, 112, 145);
+    background: linear-gradient(90deg,rgb(111, 141, 180) 0%,
+   rgb(25, 89, 102) 98%);
+   text-align: center;
+   padding: 20px;
+
+}
